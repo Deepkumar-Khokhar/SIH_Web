@@ -1,1 +1,21 @@
 /* Home Page CSS */
+
+.Home-main{
+    margin: 100px 0px 100px 0px;
+}
+
+.home-first-div{
+    padding: 50px;
+}
+
+.home-second-div{
+    padding: 10px;
+    padding-right: 100px;
+}
+
+.home-all-line-height{
+    line-height: 1.5;
+}
+.home-third-div{
+    padding: 50px;
+}
